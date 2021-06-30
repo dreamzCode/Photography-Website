@@ -1,2 +1,2 @@
-# Photography-Website
-Photography website using CSS, JavaScript and Bootstrap. 
+# PhotoX-Website
+Responsive photography website using CSS, JavaScript and Bootstrap. 
