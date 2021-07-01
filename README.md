@@ -1,7 +1,7 @@
 # PhotoX-Website
 ## Responsive photography website using CSS, JavaScript, jQuery, Bootstrap.
 
-Updated locally
+Made using Bootstrap 4
 
 
 
